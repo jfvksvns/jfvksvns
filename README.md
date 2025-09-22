@@ -37,12 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats   
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
----
-
 ## 🌍 GitHub Profile Map  
 
 ![GitHub Profile Map](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=radical)  
