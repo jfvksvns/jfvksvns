@@ -1,47 +1,73 @@
-# Hi there 👋 I'm Prashanth  
+👋 Hi, I'm M H Prashanth
 
-🚀 Final-year Computer Science Engineering student | Aspiring Software Development Engineer (SDE)  
-💡 Passionate about Web Development, AI/ML, and Cloud Computing  
-📚 Constantly learning and building impactful projects  
+🚀 Aspiring Software Developer & Data Specialist
+Building scalable and secure full-stack applications while leveraging data analysis and data science techniques to drive insights and decisions.
+Passionate about creating robust, data-driven solutions and contributing to innovative products.
 
----
+🧑‍💻 About Me
 
-## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+🎓 B.E in Computer Science & Engineering (MVJ College of Engineering, Bengaluru)
 
----
+💡 Skilled in Full-Stack Development, Data Science, and AI
 
-## ⚡ Tech Stack  
+🌱 Currently exploring MERN stack, Cloud, and ML applications
 
-### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+🤝 Open to collaborations in AI, Data Engineering, and Scalable App Development
 
-### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+🛠️ Tech Stack
 
-### 🛠️ Tools & Cloud  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+Languages: C, C++, Python, Java, SQL, HTML, CSS, JavaScript
+Frameworks & Libraries: MERN Stack, Spring Boot, Node.js, OpenCV
+Tools & Platforms: Arduino, IoT Cloud, Power BI, Tableau, MS Excel
+Other: DSA, DBMS, AI, Computer Networks, Operating Systems
 
----
+📂 Projects
+🔹 RideLink (Ongoing)
 
-## 🌍 GitHub Profile Map  
+A secure ride-sharing app focused on solo traveler safety.
 
-![GitHub Profile Map](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=radical)  
-![GitHub Profile Map](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-username&theme=radical)  
+Real-time ride-matching logic and user profiles
 
----
+Tech Stack: React Native, Node.js, MongoDB, OpenStreetMap
 
-✨ _“Code, Learn, and Build the Future!”_
+🔹 Data Segmentation (Ongoing)
+
+A web-based customer segmentation platform.
+
+Implements K-Means clustering to group customers into actionable insights
+
+Interactive data visualizations for businesses
+
+Tech Stack: Python (Flask), Scikit-learn, Pandas, Matplotlib, Bootstrap
+
+🔹 Attendix Authentication
+
+A facial recognition tool for secure authentication.
+
+Built with Python, OpenCV, TensorFlow
+
+🔹 Smart Agriculture System (IoT)
+
+An IoT-based system for real-time soil condition monitoring and crop management.
+
+Uses sensors to adjust water & mineral percentage dynamically
+
+Tech: Arduino (NodeMCU), IoT, Python, NodeJS, MQTT
+
+🎖️ Achievements
+
+☑️ Java Programming Certification (Udemy)
+
+☑️ Cybersecurity Certification (Google)
+
+☑️ Java Virtual Internship (Codsoft)
+
+☑️ SQL Certification (Simplilearn)
+
+📫 Let's Connect!
+
+📧 Email: mhprashanth24@gmail.com
+
+💼 LinkedIn: linkedin.com/in/mh-prashanth-365804258
+
+🖥️ GitHub: github.com/mh-prashanth
