@@ -1,65 +1,77 @@
-# 👋 Hi, I'm M H Prashanth  
+# 👋 Hi, I’m M H Prashanth
 
-🚀 **Aspiring Software Developer & Data Specialist**  
-Building scalable and secure full-stack applications with modern frameworks, while leveraging data analysis and data science techniques to drive insights and decisions. Passionate about creating robust, data-driven solutions and contributing to innovative products.  
-
----
-
-## 🧑‍💻 About Me  
-- 🎓 Education: B.E in Computer Science & Engineering, MVJ College of Engineering (CGPA: 8.5)  
-- 💡 Skilled in Full-Stack Development, Data Science, and AI  
-- 🌱 Currently exploring MERN stack, Cloud, and ML applications  
-- 🤝 Open to collaborations in AI, Data Engineering, and Scalable App Development  
+🚀 **Computer Science Engineer**  
+Passionate about building reliable software and solving real-world problems through clean code, analytical thinking, and continuous learning.
 
 ---
 
-## 🛠️ Tech Stack  
-
-**Languages:** C, C++, Python, Java, SQL, HTML, CSS, JavaScript  
-**Frameworks & Libraries:** MERN Stack, Spring Boot, Node.js, OpenCV  
-**Tools & Platforms:** Arduino, IoT Cloud, Power BI, Tableau, MS Excel  
-**Other:** Data Structures & Algorithms, DBMS, Artificial Intelligence, Computer Networks, Operating Systems  
-
----
-
-## 📂 Projects  
-
-### 🔹 RideLink (Ongoing)  
-A secure and user-friendly ride-sharing app focused on **solo traveler safety and trust**.  
-- Real-time ride-matching logic and user profiles  
-- Tech Stack: React Native, Node.js, MongoDB, OpenStreetMap  
-
-### 🔹 Data Segmentation (Ongoing)  
-A **web-based customer segmentation platform**.  
-- Implements **K-Means clustering** to group customers into actionable insights  
-- Visualized results using interactive charts  
-- Tech Stack: Python (Flask), Scikit-learn, Pandas, Matplotlib, Bootstrap  
-
-### 🔹 Attendix Authentication  
-A **facial recognition tool** for secure authentication.  
-- Captured images, trained face models, and integrated them into an authentication flow  
-- Tech Stack: Python, OpenCV, TensorFlow  
-
-### 🔹 Smart Agriculture System (IoT)  
-An **IoT-based smart agriculture system** for soil condition monitoring and crop management.  
-- Sensors track soil pH & moisture and suggest amendments  
-- Tech: Arduino (NodeMCU), IoT, Python, NodeJS, MQTT  
+## 🧑‍💻 About Me
+- 🎓 B.E. in Computer Science & Engineering, MVJ College of Engineering (CGPA: 8.5)
+- 💡 Strong foundation in programming, problem-solving, and core computer science fundamentals
+- 🛠️ Hands-on experience through real-world projects in software development, data analysis, and applied AI
+- 🌱 Continuously learning and improving skills through practical implementation and exploration of new technologies
+- 🤝 Open to collaborating on meaningful technology-driven projects
 
 ---
 
-## 🎖️ Achievements  
-- ☑️ Java Programming Certification (Udemy)  
-- ☑️ Java Virtual Internship (Codsoft)  
-- ☑️ Cybersecurity Certification (Google)  
-- ☑️ SQL Certification (Simplilearn)  
+## 🛠️ Technical Skills
+
+**Programming Languages:** C, C++, Python, Java, SQL  
+**Web & Backend:** Flask, Node.js, HTML, CSS, JavaScript  
+**Frameworks & Libraries:** Spring Boot, OpenCV  
+**Data & Tools:** Power BI, Tableau, MS Excel  
+**CS Fundamentals:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks
 
 ---
 
-## 📫 Let's Connect!  
-- 📧 Email: [mhprashanth24@gmail.com](mailto:mhprashanth24@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/mh-prashanth-365804258](https://linkedin.com/in/mh-prashanth-365804258)  
-- 🖥️ GitHub: [github.com/mh-prashanth](https://github.com/mh-prashanth)  
+## 📂 Projects
+
+### 🔹 RideLink
+A full-stack ride-sharing web application focused on **user safety and real-time communication**.
+- Separate driver and passenger modules with secure role-based access
+- Real-time chat implementation using SocketIO
+- Safety features including women-only ride options and SOS alerts  
+**Tech Stack:** Flask, MongoDB, Flask-SocketIO
 
 ---
 
-✨ _“Code. Learn. Innovate.”_  
+### 🔹 Data Segmentation
+A web-based customer segmentation application for extracting actionable insights from data.
+- Implemented K-Means clustering to group customers based on behavior
+- Visualized results using simple and interactive charts  
+**Tech Stack:** Python (Flask), Scikit-learn, Bootstrap
+
+---
+
+### 🔹 Attendix – Face & Eye-Blink Attendance
+An automated attendance system using facial recognition and blink detection.
+- Collected and trained face data for recognition
+- Automated attendance marking with blink-based verification  
+**Tech Stack:** Python, OpenCV, TensorFlow
+
+---
+
+### 🔹 Smart Agriculture System
+An IoT-based solution for real-time soil monitoring and crop condition improvement.
+- Monitored soil moisture and pH levels using sensors
+- Automated water flow and mineral adjustments based on sensor data  
+**Tech Stack:** Arduino, IoT
+
+---
+
+## 🎖️ Achievements & Certifications
+- Java Virtual Internship – CodSoft
+- Cybersecurity Certification – Google
+- Java Programming Certification – Udemy
+- Introduction to SQL – Simplilearn
+
+---
+
+## 📫 Let’s Connect
+- 📧 Email: **mhprashanth24@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/mhprashanth24](https://linkedin.com/in/mhprashanth24)
+- 🖥️ GitHub: [github.com/jfvksvns](https://github.com/jfvksvns)
+
+---
+
+✨ *“Build. Learn. Improve.”*
