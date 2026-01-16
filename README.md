@@ -1,11 +1,11 @@
-# 👋 Hi, I’m M H Prashanth
+ Hi, I’m M H Prashanth
 
-🚀 **Computer Science Engineer**  
+ **Computer Science Engineer**  
 Passionate about building reliable software and solving real-world problems through clean code, analytical thinking, and continuous learning.
 
 ---
 
-## 🧑‍💻 About Me
+ About Me
 - 🎓 B.E. in Computer Science & Engineering, MVJ College of Engineering (CGPA: 8.5)
 - 💡 Strong foundation in programming, problem-solving, and core computer science fundamentals
 - 🛠️ Hands-on experience through real-world projects in software development, data analysis, and applied AI
@@ -14,7 +14,7 @@ Passionate about building reliable software and solving real-world problems thro
 
 ---
 
-## 🛠️ Technical Skills
+ Technical Skills
 
 **Programming Languages:** C, C++, Python, Java, SQL  
 **Web & Backend:** Flask, Node.js, HTML, CSS, JavaScript  
@@ -24,7 +24,7 @@ Passionate about building reliable software and solving real-world problems thro
 
 ---
 
-## 📂 Projects
+ Projects
 
 ### 🔹 RideLink
 A full-stack ride-sharing web application focused on **user safety and real-time communication**.
