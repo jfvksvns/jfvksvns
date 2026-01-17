@@ -26,7 +26,7 @@ Passionate about building reliable software and solving real-world problems thro
 
  Projects
 
-### 🔹 RideLink
+ RideLink
 A full-stack ride-sharing web application focused on **user safety and real-time communication**.
 - Separate driver and passenger modules with secure role-based access
 - Real-time chat implementation using SocketIO
@@ -34,8 +34,7 @@ A full-stack ride-sharing web application focused on **user safety and real-time
 **Tech Stack:** Flask, MongoDB, Flask-SocketIO
 
 ---
-
-### 🔹 Data Segmentation
+Data Segmentation
 A web-based customer segmentation application for extracting actionable insights from data.
 - Implemented K-Means clustering to group customers based on behavior
 - Visualized results using simple and interactive charts  
@@ -43,7 +42,7 @@ A web-based customer segmentation application for extracting actionable insights
 
 ---
 
-### 🔹 Attendix – Face & Eye-Blink Attendance
+ Attendix – Face & Eye-Blink Attendance
 An automated attendance system using facial recognition and blink detection.
 - Collected and trained face data for recognition
 - Automated attendance marking with blink-based verification  
@@ -51,7 +50,7 @@ An automated attendance system using facial recognition and blink detection.
 
 ---
 
-### 🔹 Smart Agriculture System
+ Smart Agriculture System
 An IoT-based solution for real-time soil monitoring and crop condition improvement.
 - Monitored soil moisture and pH levels using sensors
 - Automated water flow and mineral adjustments based on sensor data  
@@ -59,15 +58,14 @@ An IoT-based solution for real-time soil monitoring and crop condition improveme
 
 ---
 
-## 🎖️ Achievements & Certifications
+ Achievements & Certifications
 - Java Virtual Internship – CodSoft
 - Cybersecurity Certification – Google
 - Java Programming Certification – Udemy
 - Introduction to SQL – Simplilearn
 
 ---
-
-## 📫 Let’s Connect
+ Let’s Connect
 - 📧 Email: **mhprashanth24@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/mhprashanth24](https://linkedin.com/in/mhprashanth24)
 - 🖥️ GitHub: [github.com/jfvksvns](https://github.com/jfvksvns)
