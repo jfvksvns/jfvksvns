@@ -1,6 +1,6 @@
  Hi, I’m M H Prashanth
 
- **Computer Science Engineer**  
+ Computer Science Engineer  
 Passionate about building reliable software and solving real-world problems through clean code, analytical thinking, and continuous learning.
 
 ---
