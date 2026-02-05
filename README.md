@@ -16,11 +16,11 @@ Passionate about building reliable software and solving real-world problems thro
 
  Technical Skills
 
-**Programming Languages:** C, C++, Python, Java, SQL  
-**Web & Backend:** Flask, Node.js, HTML, CSS, JavaScript  
-**Frameworks & Libraries:** Spring Boot, OpenCV  
-**Data & Tools:** Power BI, Tableau, MS Excel  
-**CS Fundamentals:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks
+Programming Languages:C, C++, Python, Java, SQL  
+Web & Backend: Flask, Node.js, HTML, CSS, JavaScript  
+Frameworks & Libraries: Spring Boot, OpenCV  
+Data & Tools: Power BI, Tableau, MS Excel  
+CS Fundamentals:Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks
 
 ---
 
