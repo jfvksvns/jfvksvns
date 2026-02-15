@@ -1,73 +1,93 @@
- Hi, I’m M H Prashanth
+# 👋 Hi, I’m M H Prashanth
 
- Computer Science Engineer  
-Passionate about building reliable software and solving real-world problems through clean code, analytical thinking, and continuous learning.
-
----
-
- About Me
-- 🎓 B.E. in Computer Science & Engineering, MVJ College of Engineering (CGPA: 8.5)
-- 💡 Strong foundation in programming, problem-solving, and core computer science fundamentals
-- 🛠️ Hands-on experience through real-world projects in software development, data analysis, and applied AI
-- 🌱 Continuously learning and improving skills through practical implementation and exploration of new technologies
-- 🤝 Open to collaborating on meaningful technology-driven projects
+**Computer Science Engineering Undergraduate**  
+Passionate about building reliable software and data-driven applications using clean code, analytical thinking, and continuous learning.
 
 ---
 
- Technical Skills
-
-Programming Languages:C, C++, Python, Java, SQL  
-Web & Backend: Flask, Node.js, HTML, CSS, JavaScript  
-Frameworks & Libraries: Spring Boot, OpenCV  
-Data & Tools: Power BI, Tableau, MS Excel  
-CS Fundamentals:Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks
+## 🚀 Career Summary
+Computer Science undergraduate with hands-on experience in **data analytics, machine learning, and full-stack application development**. Skilled in **Python, Java, SQL**, and data visualization using **Power BI, Tableau, and Excel**. Built reliable software solutions and ML models through academic projects and internships. Eager to contribute to collaborative engineering teams while continuously improving technical and problem-solving skills.
 
 ---
 
- Projects
-
- RideLink
-A full-stack ride-sharing web application focused on **user safety and real-time communication**.
-- Separate driver and passenger modules with secure role-based access
-- Real-time chat implementation using SocketIO
-- Safety features including women-only ride options and SOS alerts  
-**Tech Stack:** Flask, MongoDB, Flask-SocketIO
-
----
-Data Segmentation
-A web-based customer segmentation application for extracting actionable insights from data.
-- Implemented K-Means clustering to group customers based on behavior
-- Visualized results using simple and interactive charts  
-**Tech Stack:** Python (Flask), Scikit-learn, Bootstrap
+## 🎓 Education
+- **B.E. in Computer Science & Engineering** – MVJ College of Engineering (CGPA: 8.6) | 2022 – 2026  
+- **12th (PCMB)** – BGS PU College (91%) | 2020 – 2022  
 
 ---
 
- Attendix – Face & Eye-Blink Attendance
-An automated attendance system using facial recognition and blink detection.
-- Collected and trained face data for recognition
-- Automated attendance marking with blink-based verification  
-**Tech Stack:** Python, OpenCV, TensorFlow
+## 🛠️ Technical Skills
+
+**Programming & Web:**  
+Java, Python, C, JavaScript, HTML, CSS  
+
+**Frameworks & Libraries:**  
+Flask, Spring Boot (Basics), OpenCV, Scikit-learn, TensorFlow  
+
+**Data & Visualization:**  
+Power BI, Tableau, MS Excel  
+
+**Core CS:**  
+DSA, DBMS, Operating Systems, Computer Networks  
+
+**Soft Skills:**  
+Problem Solving, Communication, Team Collaboration, Critical Thinking, Time Management  
 
 ---
 
- Smart Agriculture System
-An IoT-based solution for real-time soil monitoring and crop condition improvement.
-- Monitored soil moisture and pH levels using sensors
-- Automated water flow and mineral adjustments based on sensor data  
-**Tech Stack:** Arduino, IoT
+## 📌 Projects
+
+### 🚗 RideLink – Full-Stack Ride-Sharing Web Application  
+A carpooling platform with a strong focus on **user safety and real-time interaction**.
+- Real-time ride creation, search, and secure booking  
+- Dynamic seat selection, UPI payment workflow  
+- SOS alerts & Twilio emergency SMS integration  
+- Responsive UI with dark/light mode and animations  
+**Tech Stack:** Flask, MongoDB, JavaScript, HTML, CSS  
 
 ---
 
- Achievements & Certifications
-- Java Virtual Internship – CodSoft
-- Cybersecurity Certification – Google
-- Java Programming Certification – Udemy
-- Introduction to SQL – Simplilearn
+### 📊 Data Segmentation – Customer Clustering Web App  
+A data-driven web application to extract actionable insights from datasets.
+- K-Means clustering for customer segmentation  
+- Data preprocessing, feature scaling, and cluster visualization  
+- Interactive UI with summary statistics  
+**Tech Stack:** Python, Scikit-learn, Flask, Bootstrap, HTML, CSS  
 
 ---
- Let’s Connect
-- 📧 Email: **mhprashanth24@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/mhprashanth24](https://linkedin.com/in/mhprashanth24)
+
+### 🧠 Attendix – Face & Eye-Blink Attendance System  
+An automated attendance system with liveness verification.
+- Real-time face recognition and blink detection  
+- Secure attendance marking and record storage  
+- Suitable for classrooms and office environments  
+**Tech Stack:** Python, OpenCV, TensorFlow, Flask  
+
+---
+
+## 💼 Experience
+
+**Foundation of AI Intern – Edunet Foundation (Microsoft + AICTE)**  
+*Apr 2025 – May 2025*  
+- Built supervised & unsupervised ML models on real-world datasets  
+- Developed computer vision systems using OpenCV on Microsoft Azure  
+- Designed neural networks to improve classification accuracy  
+**Tech Stack:** Python, Scikit-learn, TensorFlow, OpenCV, Azure  
+
+---
+
+## 🏆 Achievements & Certifications
+- Java Virtual Internship – CodSoft  
+- Python Training (80%) – IIT Bombay (Spoken Tutorial)  
+- Virtual Job Simulations – AWS, TATA, Accenture (Forage)  
+- Cybersecurity Certification – Google  
+- Power BI & SQL – Simplilearn  
+
+---
+
+## 🤝 Let’s Connect
+- 📧 Email: **mhprashanth24@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/mhprashanth24](https://linkedin.com/in/mhprashanth24)  
 - 🖥️ GitHub: [github.com/jfvksvns](https://github.com/jfvksvns)
 
 ---
