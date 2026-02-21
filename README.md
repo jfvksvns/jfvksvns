@@ -6,7 +6,7 @@ Passionate about building reliable software and data-driven applications using c
 ---
 
 ## 🚀 Career Summary
-Computer Science undergraduate with hands-on experience in **data analytics, machine learning, and full-stack application development**. Skilled in **Python, Java, SQL**, and data visualization using **Power BI, Tableau, and Excel**. Built reliable software solutions and ML models through academic projects and internships. Eager to contribute to collaborative engineering teams while continuously improving technical and problem-solving skills.
+Computer Science undergraduate with hands-on experience in **data analytics and application development**. Skilled in **Python, Java, SQL**, and data visualization using **Power BI, Tableau, and Excel**. Built reliable software solutions and data-driven models through academic projects and internships. Eager to contribute to a collaborative engineering team while continuously improving technical and problem-solving skills.
 
 ---
 
@@ -18,49 +18,42 @@ Computer Science undergraduate with hands-on experience in **data analytics, mac
 
 ## 🛠️ Technical Skills
 
-**Programming & Web:**  
+**Programming & Web Technologies:**  
 Java, Python, C, JavaScript, HTML, CSS  
 
-**Frameworks & Libraries:**  
-Flask, Spring Boot (Basics), OpenCV, Scikit-learn, TensorFlow  
+**Technical Knowledge & Tools:**  
+SQL, DBMS, DSA, Spring Boot (Basics), Machine Learning, Computer Networks, OpenCV  
 
 **Data & Visualization:**  
 Power BI, Tableau, MS Excel  
 
-**Core CS:**  
-DSA, DBMS, Operating Systems, Computer Networks  
-
 **Soft Skills:**  
-Problem Solving, Communication, Team Collaboration, Critical Thinking, Time Management  
+Problem-Solving, Communication, Team Collaboration, Critical Thinking, Time Management  
 
 ---
 
 ## 📌 Projects
 
 ### 🚗 RideLink – Full-Stack Ride-Sharing Web Application  
-A carpooling platform with a strong focus on **user safety and real-time interaction**.
-- Real-time ride creation, search, and secure booking  
-- Dynamic seat selection, UPI payment workflow  
-- SOS alerts & Twilio emergency SMS integration  
-- Responsive UI with dark/light mode and animations  
+- Developed a full-stack carpooling platform enabling real-time ride creation, search, and secure booking  
+- Implemented dynamic seat selection, UPI payment workflow, SOS alerts, and Twilio emergency SMS for passenger safety  
+- Designed a responsive, animated user interface with dark/light theme support for improved user experience  
 **Tech Stack:** Flask, MongoDB, JavaScript, HTML, CSS  
 
 ---
 
-### 📊 Data Segmentation – Customer Clustering Web App  
-A data-driven web application to extract actionable insights from datasets.
-- K-Means clustering for customer segmentation  
-- Data preprocessing, feature scaling, and cluster visualization  
-- Interactive UI with summary statistics  
+### 📊 Data Segmentation – Customer Clustering Web Application  
+- Built a web app that lets users upload datasets and perform customer segmentation using K-Means clustering  
+- Implemented data preprocessing, feature scaling, and cluster visualization to generate meaningful insights  
+- Designed a simple and interactive UI to display cluster results and summary statistics  
 **Tech Stack:** Python, Scikit-learn, Flask, Bootstrap, HTML, CSS  
 
 ---
 
-### 🧠 Attendix – Face & Eye-Blink Attendance System  
-An automated attendance system with liveness verification.
-- Real-time face recognition and blink detection  
-- Secure attendance marking and record storage  
-- Suitable for classrooms and office environments  
+### 🧠 Attendix – Face & Eye-Blink Based Attendance System  
+- Developed an automated attendance system using face recognition and eye-blink detection for secure verification  
+- Implemented real-time face detection and liveness check using OpenCV and TensorFlow  
+- Automated attendance marking and record storage for classroom and office use  
 **Tech Stack:** Python, OpenCV, TensorFlow, Flask  
 
 ---
@@ -69,10 +62,10 @@ An automated attendance system with liveness verification.
 
 **Foundation of AI Intern – Edunet Foundation (Microsoft + AICTE)**  
 *Apr 2025 – May 2025*  
-- Built supervised & unsupervised ML models on real-world datasets  
-- Developed computer vision systems using OpenCV on Microsoft Azure  
-- Designed neural networks to improve classification accuracy  
-**Tech Stack:** Python, Scikit-learn, TensorFlow, OpenCV, Azure  
+- Built and trained supervised and unsupervised machine learning models on real-world datasets  
+- Developed a computer vision system using Python and OpenCV on Microsoft Azure for real-time image recognition  
+- Designed and implemented neural networks to improve classification accuracy and reliability  
+**Tech Stack:** Python, Scikit-learn, TensorFlow, OpenCV, Microsoft Azure  
 
 ---
 
@@ -81,14 +74,14 @@ An automated attendance system with liveness verification.
 - Python Training (80%) – IIT Bombay (Spoken Tutorial)  
 - Virtual Job Simulations – AWS, TATA, Accenture (Forage)  
 - Cybersecurity Certification – Google  
-- Power BI & SQL – Simplilearn  
+- Power BI & SQL Certifications – Simplilearn  
 
 ---
 
 ## 🤝 Let’s Connect
 - 📧 Email: **mhprashanth24@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/mhprashanth24](https://linkedin.com/in/mhprashanth24)  
-- 🖥️ GitHub: [github.com/jfvksvns](https://github.com/jfvksvns)
+- 💼 LinkedIn: https://linkedin.com/in/mhprashanth24  
+- 🖥️ GitHub: https://github.com/jfvksvns  
 
 ---
 
