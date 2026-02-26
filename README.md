@@ -58,14 +58,29 @@ Problem-Solving, Communication, Team Collaboration, Critical Thinking, Time Mana
 
 ---
 
-## 💼 Experience
+💼 Experience
 
-**Foundation of AI Intern – Edunet Foundation (Microsoft + AICTE)**  
-*Apr 2025 – May 2025*  
-- Built and trained supervised and unsupervised machine learning models on real-world datasets  
-- Developed a computer vision system using Python and OpenCV on Microsoft Azure for real-time image recognition  
-- Designed and implemented neural networks to improve classification accuracy and reliability  
-**Tech Stack:** Python, Scikit-learn, TensorFlow, OpenCV, Microsoft Azure  
+---Android App Development Intern (GenAI) – MindMatrix.io (CL Infotech Pvt. Ltd.)
+Jan 2026 – Apr 2026 (VTU Internship Program)
+
+Selected through the VTU Internship Portal for an Android-focused internship
+
+Building Android UI using Kotlin & Jetpack Compose
+
+Implementing features, testing, and preparing technical documentation
+
+Collaborating in an Agile environment on guided modules and real-world tasks
+Tech Stack: Kotlin, Jetpack Compose, Android SDK, Git (Basics)
+
+---Foundation of AI Intern – Edunet Foundation (Microsoft + AICTE)
+Apr 2025 – May 2025
+
+Built and trained supervised & unsupervised ML models on real-world datasets
+
+Developed a computer vision system using Python & OpenCV on Microsoft Azure
+
+Designed neural networks to improve classification accuracy and reliability
+Tech Stack: Python, Scikit-learn, TensorFlow, OpenCV, Microsoft Azure
 
 ---
 
