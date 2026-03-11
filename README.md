@@ -40,7 +40,6 @@ Problem-Solving, Communication, Team Collaboration, Critical Thinking, Time Mana
 - Designed a responsive, animated user interface with dark/light theme support for improved user experience  
 **Tech Stack:** Flask, MongoDB, JavaScript, HTML, CSS  
 
----
 
 ### 📊 Data Segmentation – Customer Clustering Web Application  
 - Built a web app that lets users upload datasets and perform customer segmentation using K-Means clustering  
@@ -48,7 +47,7 @@ Problem-Solving, Communication, Team Collaboration, Critical Thinking, Time Mana
 - Designed a simple and interactive UI to display cluster results and summary statistics  
 **Tech Stack:** Python, Scikit-learn, Flask, Bootstrap, HTML, CSS  
 
----
+
 
 ### 🧠 Attendix – Face & Eye-Blink Based Attendance System  
 - Developed an automated attendance system using face recognition and eye-blink detection for secure verification  
