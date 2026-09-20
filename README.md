@@ -1,188 +1,390 @@
 # 👋 Hi, I'm M H Prashanth
 
-### Computer Science Engineering Graduate | Software Engineer | Full Stack Developer | Data Analytics Enthusiast
+### Data Analyst | Business Analyst | Data Analytics Enthusiast
 
-🚀 Passionate about building scalable software, backend systems, and data-driven applications using modern technologies. I enjoy solving real-world problems through clean code, REST APIs, and continuous learning.
+🚀 Passionate about transforming raw data into meaningful business insights through SQL, Excel, Power BI, Tableau, Python, and modern data engineering technologies. I enjoy working with data, building dashboards, developing KPIs, performing analytical reporting, and continuously learning new technologies.
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 B.E. in Computer Science Engineering (2022–2026)
+- 🎓 B.E. in Computer Science & Engineering (2022–2026)
 - 🏫 MVJ College of Engineering, Bengaluru
 - ⭐ CGPA: **8.6 / 10**
-- 💼 Open to **Software Engineer**, **Backend Developer**, **Web Developer**, **Data Analyst**, **QA Automation**, and **Fresher IT Roles**
+- 💼 Data Analyst Intern / Data Engineering Team at **Himalaya Wellness Company**
+- 📊 Data Analytics Trainee / Project Experience at **ExcelR Solutions**
 - 📍 Bengaluru, India
-- 🚀 Immediate Joiner
+- 🚀 Interested in Data Analytics, Business Analytics, BI, and Data Engineering
 
 ---
 
 # 💻 Technical Skills
 
-### Programming Languages
-- Python
-- Java
-- C
+### 📊 Data Analytics & Business Intelligence
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Flask
-- FastAPI (Beginner)
-
-### Databases
-- MySQL
-- MongoDB
-- SQL
-
-### Data Analytics
+- Microsoft Excel
 - Power BI
 - Tableau
-- Microsoft Excel
-- Pandas
-- NumPy
+- KPI Development
+- Dashboard Development
+- Data Visualization
+- Business Reporting
+- Business Insights
+- Exploratory Data Analysis
 
-### Machine Learning
-- Scikit-learn
-- TensorFlow
-- OpenCV
+### 🗄️ SQL & Databases
 
-### Tools & Platforms
-- Git
+- SQL
+- DDL
+- DML
+- Joins
+- Window Functions
+- Stored Procedures
+- MySQL
+- Database Management
+
+### 🐍 Programming
+
+- Python
+
+### ☁️ Data Engineering & Cloud
+
+- Microsoft Fabric
+- PySpark
+- Spark SQL
 - Microsoft Azure
-- Linux (Basics)
-- AWS (Forage)
+- ETL / ELT
+- Data Pipelines
+- Lakehouse
+- Warehouse
+- OneLake
+- Bronze-Silver-Gold Architecture
 
-### Core Computer Science
-- Data Structures & Algorithms
-- Database Management System
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- REST APIs
+### 🛠️ Data Processing
+
+- Data Cleaning
+- Data Validation
+- Data Transformation
 - ETL Pipelines
-- Machine Learning
+- Data Preparation
+- Analytical Reporting
+
+### 🔧 Tools
+
+- Git
+- GitHub
+- Microsoft Fabric
+- MySQL Workbench
+- Microsoft Excel
+- Power BI
+- Tableau
 
 ---
 
 # 💼 Experience
 
-## 📱 Android App Development Intern
-### MindMatrix (VTU MoU Partner)
-**Feb 2026 – May 2026**
+## 🏢 Data Analyst Intern / Data Engineering Team
 
-- Built Android applications using Kotlin and Jetpack Compose.
-- Worked on UI/UX design, debugging, and application prototyping.
-- Contributed to backend integration and testing.
-- Explored Generative AI capabilities using Android Studio and Google Cloud Labs.
-- Received an **EXCELLENT** performance rating.
+### Himalaya Wellness Company
+
+**Sep 2026 – Present | Bangalore, India**
+
+- Learning and working with **Microsoft Fabric** and its data engineering services, including Lakehouse, Data Pipelines, Notebooks, OneLake, and Warehouse.
+- Exploring **PySpark and Spark SQL** for reading, processing, transforming, and writing data in Fabric environments.
+- Working with data ingestion and transformation workflows, including data cleaning, validation, and preparation using Fabric tools.
+- Gaining hands-on exposure to **ETL/ELT processes, Bronze-Silver-Gold architecture, and data pipeline orchestration**.
+- Collaborating with the Data Engineering team to understand real-world data flow, storage, transformation, and analytics workflows using Microsoft Fabric.
 
 **Tech Stack**
-Kotlin • Jetpack Compose • Android Studio • Git • Google Cloud
+
+Microsoft Fabric • PySpark • Spark SQL • Lakehouse • OneLake • Warehouse • Data Pipelines • ETL/ELT • Git
 
 ---
 
-## 🤖 Foundation of AI Intern
-### Edunet Foundation (Microsoft + AICTE)
+## 📊 Data Analytics Trainee / Project Experience
 
-**Apr 2025 – May 2025**
+### ExcelR Solutions
 
-- Developed supervised and unsupervised machine learning models.
-- Built Computer Vision applications using Python, OpenCV, and TensorFlow.
-- Worked on ETL pipelines, feature engineering, and model optimization.
-- Collaborated in Agile teams using Git.
+**May 2026 – Present | Bangalore, India**
+
+- Worked on **Insurance Analytics and Healthcare Analytics projects**, applying data analysis techniques to real-world datasets.
+- Performed data cleaning, validation, transformation, and exploratory analysis using **Excel and SQL**.
+- Created KPIs, reports, and dashboards using **Power BI and Excel** to identify trends and generate business insights.
+- Analyzed business metrics and presented findings through structured reports and data visualizations.
 
 **Tech Stack**
-Python • OpenCV • TensorFlow • Azure • Git • Scikit-learn
+
+Microsoft Excel • SQL • Power BI • Tableau • Data Analytics • Data Visualization • KPI Reporting
+
+---
+
+## 📱 Android App Development Intern
+
+### MindMatrix
+
+**Feb 2026 – May 2026 | Bangalore, India**
+
+- Developed Android application features using **Kotlin and Jetpack Compose**.
+- Contributed to UI/UX design, prototyping, and iterative feature development.
+- Explored **Generative AI capabilities** using Android Studio and Google Cloud Labs.
+- Supported backend integration, debugging, and application testing.
+
+**Tech Stack**
+
+Kotlin • Jetpack Compose • Android Studio • Google Cloud • Git
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚗 RideLink – Full Stack Ride Sharing Platform
+## 🏥 AXON Healthcare Analytics
 
-A complete ride-sharing web application with real-time booking and safety features.
+An end-to-end Healthcare Analytics and Business Intelligence project focused on analyzing healthcare operational and Electronic Medical Record (EMR) data.
 
-### Features
-- REST APIs
-- Ride Booking
-- UPI Payments
-- Twilio SOS Alerts
-- Authentication
-- MongoDB Database
-- Responsive UI
-- Dark/Light Theme
+### Key Areas
 
-**Tech Stack**
+- Patient Analysis
+- Doctor Workload Analysis
+- Healthcare Visit Analysis
+- Diagnosis Analysis
+- Treatment Analysis
+- Laboratory Result Analysis
+- Follow-Up Analysis
+- KPI Development
+- Data Quality Validation
+- SQL Business Analysis
+- Interactive Dashboard Development
 
-Python • Flask • MongoDB • JavaScript • HTML • CSS
+### Tools & Technologies
+
+Microsoft Excel • MySQL • SQL • Power BI • Tableau • Git & GitHub
 
 🔗 **GitHub:** *(Add Repository Link)*
 
 ---
 
-## 📊 Data Segmentation Dashboard
+## 🛡️ Insurance Analytics Dashboard
 
-Machine Learning powered customer segmentation dashboard.
+An end-to-end Insurance Analytics project developed to analyze customer, policy, premium, and claim data and generate meaningful business insights.
+
+### Key Areas
+
+- Customer Analysis
+- Policy Analysis
+- Claims Analysis
+- Premium Analysis
+- Customer Demographics
+- Policy Status Analysis
+- KPI Development
+- SQL Business Analysis
+- Trend Analysis
+- Interactive Dashboards
+
+### Tools & Technologies
+
+Microsoft Excel • MySQL • Power BI • Tableau • SQL
+
+🔗 **GitHub:** *(Add Repository Link)*
+
+---
+
+## 📊 Data Segmentation – ML Dashboard
+
+An end-to-end customer segmentation project using machine learning and interactive data visualization.
 
 ### Features
-- ETL Pipeline
+
 - Data Cleaning
-- Feature Scaling
+- Data Preparation
+- Feature Processing
+- Customer Segmentation
 - K-Means Clustering
-- KPI Dashboard
-- Interactive Visualizations
+- KPI Visualization
+- Interactive Dashboard
+- Business Insights
 
-**Tech Stack**
+### Tech Stack
 
-Python • Flask • Pandas • Scikit-learn • Bootstrap
+Python • Pandas • Scikit-learn • Flask • Bootstrap
 
 🔗 **GitHub:** *(Add Repository Link)*
 
 ---
 
-## 👁️ Attendix – Face Recognition Attendance System
+## 🚗 RideLink – Full Stack Web Application
 
-AI-based attendance system with face recognition and liveness detection.
+A full-stack ride-sharing application developed using Python, Flask, and MongoDB.
 
 ### Features
-- Face Recognition
-- Eye Blink Detection
-- Automated Attendance
-- Report Generation
+
+- Ride Creation
+- Ride Booking
+- Ride Search
+- REST APIs
+- Database Workflows
+- Data Validation
+- Structured Data Handling
+
+### Tech Stack
+
+Python • Flask • MongoDB • REST APIs • HTML • CSS • JavaScript
+
+🔗 **GitHub:** *(Add Repository Link)*
+
+---
+
+# 📈 Data Analytics Portfolio
+
+My analytics projects focus on transforming raw datasets into structured information and actionable business insights.
+
+### 🔹 Excel
+
+- Data Cleaning
+- PivotTables
+- KPI Cards
+- PivotCharts
+- Dashboard Development
+- Business Reporting
+
+### 🔹 SQL
+
+- Database Creation
+- Data Analysis
+- Joins
+- Aggregations
+- Window Functions
+- Stored Procedures
+- KPI Queries
 - Data Validation
 
-**Tech Stack**
+### 🔹 Power BI
 
-Python • OpenCV • TensorFlow
+- Power Query
+- DAX
+- KPI Cards
+- Interactive Dashboards
+- Slicers
+- Data Visualization
+- Business Reporting
 
-🔗 **GitHub:** *(Add Repository Link)*
+### 🔹 Tableau
+
+- Interactive Dashboards
+- Data Visualization
+- Trend Analysis
+- Business Storytelling
+
+### 🔹 Python
+
+- Pandas
+- Data Processing
+- Exploratory Data Analysis
+- Machine Learning
+
+---
+
+# ☁️ Microsoft Fabric & Data Engineering
+
+Currently gaining hands-on experience with Microsoft Fabric while working with a Data Engineering team.
+
+### Areas of Learning & Practice
+
+- Microsoft Fabric
+- Lakehouse
+- Warehouse
+- OneLake
+- Notebooks
+- Data Pipelines
+- PySpark
+- Spark SQL
+- ETL / ELT
+- Data Ingestion
+- Data Transformation
+- Data Validation
+- Bronze-Silver-Gold Architecture
+- Pipeline Orchestration
 
 ---
 
 # 🏆 Certifications
 
-- 📜 Data Analytics Certification – ExcelR (IBM)
-- 📜 Power BI & SQL – Simplilearn
-- 📜 Foundation of AI – Microsoft + AICTE
-- 📜 Cybersecurity – Google
-- 📜 Python – IIT Bombay
-- 📜 Java Internship – CodSoft
-- 📜 AWS, Tata & Accenture Virtual Job Simulations
+- 📜 Data Analytics Certification – ExcelR
+- 📜 Power BI Certification – Simplilearn
+- 📜 SQL Certification – Simplilearn
+
+---
+
+# 🎓 Education
+
+## B.E. – Computer Science & Engineering
+
+**MVJ College of Engineering, Bengaluru**
+
+**2022 – 2026**
+
+**CGPA: 8.6 / 10**
 
 ---
 
 # 🌱 Currently Learning
 
-- Backend Development
-- System Design Fundamentals
-- FastAPI
-- React
-- Software Engineering Best Practices
-- Cloud Technologies
-- AI-assisted Development
+- Microsoft Fabric
+- PySpark
+- Spark SQL
+- Data Engineering Fundamentals
+- ETL / ELT Pipelines
+- Lakehouse Architecture
+- Data Pipeline Orchestration
+- Advanced SQL
+- Power BI
+- Business Intelligence
+- Data Analytics
+
+---
+
+# 📊 My Analytics Workflow
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Data Validation
+   ↓
+Data Transformation
+   ↓
+SQL / Python Analysis
+   ↓
+KPI Development
+   ↓
+Power BI / Excel / Tableau
+   ↓
+Business Insights
+   ↓
+Data-Driven Reporting
+```
+
+---
+
+# 🔧 My Data Engineering Learning Workflow
+
+```text
+Data Sources
+     ↓
+Data Ingestion
+     ↓
+Bronze Layer
+     ↓
+Data Cleaning & Transformation
+     ↓
+Silver Layer
+     ↓
+Business Transformation
+     ↓
+Gold Layer
+     ↓
+Power BI / Analytics
+```
 
 ---
 
@@ -194,15 +396,52 @@ Python • OpenCV • TensorFlow
 
 ---
 
+# 📊 Featured Analytics Projects
+
+| Project | Tools | Focus |
+|--------|-------|-------|
+| 🏥 AXON Healthcare Analytics | Excel, SQL, Power BI, Tableau | Healthcare Analytics |
+| 🛡️ Insurance Analytics | Excel, SQL, Power BI, Tableau | Insurance Analytics |
+| 📊 Data Segmentation | Python, Pandas, Scikit-learn, Flask | Customer Segmentation |
+| 🚗 RideLink | Python, Flask, MongoDB | Full Stack Application |
+
+---
+
 # 🤝 Connect with Me
 
-📧 **Email:** mhprashanth24@gmail.com
+📧 **Email:** mhprashath24@gmail.com
 
-💼 **LinkedIn**
+💼 **LinkedIn:**  
 https://linkedin.com/in/mhprashanth24
 
-💻 **GitHub**
+💻 **GitHub:**  
 https://github.com/jfvksvns
+
+---
+
+# 👨‍💻 Career Focus
+
+I am interested in opportunities related to:
+
+- Data Analyst
+- Business Analyst
+- Business Intelligence
+- Power BI Developer
+- SQL Developer
+- Data Engineering
+- Data Engineering Internships
+- Fresher IT Roles
+
+---
+
+# ✨ Interests
+
+- 📊 Data Analytics & AI
+- ☁️ Cloud & Data Engineering
+- 💻 Technology & Emerging Tools
+- 🧠 Problem Solving
+- 📈 Business Intelligence
+- 🚀 Learning New Technologies
 
 ---
 
