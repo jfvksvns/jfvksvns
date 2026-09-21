@@ -429,7 +429,6 @@ I am interested in opportunities related to:
 - Power BI Developer
 - SQL Developer
 - Data Engineering
-- Data Engineering Internships
 - Fresher IT Roles
 
 ---
