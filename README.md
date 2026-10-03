@@ -388,13 +388,11 @@ Power BI / Analytics
 
 ---
 
-# 📈 GitHub Stats
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfvksvns&layout=compact&theme=tokyonight)
 
----
+
 
 # 📊 Featured Analytics Projects
 
