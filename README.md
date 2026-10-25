@@ -434,7 +434,6 @@ I am interested in opportunities related to:
 # ✨ Interests
 
 - 📊 Data Analytics & AI
-- ☁️ Cloud & Data Engineering
 - 💻 Technology & Emerging Tools
 - 🧠 Problem Solving
 - 📈 Business Intelligence
