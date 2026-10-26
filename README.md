@@ -4,7 +4,7 @@
 
 🚀 Passionate about transforming raw data into meaningful business insights through SQL, Excel, Power BI, Tableau, Python, and modern data engineering technologies. I enjoy working with data, building dashboards, developing KPIs, performing analytical reporting, and continuously learning new technologies.
 
----
+
 
 # 👨‍💻 About Me
 
@@ -16,7 +16,7 @@
 - 📍 Bengaluru, India
 - 🚀 Interested in Data Analytics, Business Analytics, BI, and Data Engineering
 
----
+
 
 # 💻 Technical Skills
 
