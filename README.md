@@ -87,7 +87,7 @@
 
 ### Himalaya Wellness Company
 
-**Sep 2026 – Present | Bangalore, India**
+**Sep 2026 – Oct 2026 | Bangalore, India**
 
 - Learning and working with **Microsoft Fabric** and its data engineering services, including Lakehouse, Data Pipelines, Notebooks, OneLake, and Warehouse.
 - Exploring **PySpark and Spark SQL** for reading, processing, transforming, and writing data in Fabric environments.
