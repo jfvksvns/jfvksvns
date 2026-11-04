@@ -397,7 +397,7 @@ Gained practical exposure to Microsoft Fabric while collaborating with the Data 
 
 💻 **GitHub:** [Explore my repositories](https://github.com/jfvksvns)
 
-🌐 **Portfolio:** Add your portfolio URL here.
+🌐 **Portfolio:** [My Portfolio] (https://prashanth-tech-showcase.vercel.app/).
 
 ---
 
